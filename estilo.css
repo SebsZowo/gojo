@@ -1,0 +1,41 @@
+body{
+    background-color: bisque;
+    font-family:'Roboto', sans-serif ;
+    
+}
+
+h1{
+    text-align: center;
+    font-weight: bold;
+}
+
+p{
+    font-size: 24px;
+    
+}
+
+a{
+    font-size: 20px;
+}
+a, img{
+    display: block;
+}
+
+img{
+    width: 45%;
+    margin: auto;
+}
+
+#sukunavsgojo, #muerte, #adios{
+    width: 30%;
+    margin: auto;
+}
+
+/*#blackflash{
+    width: 30%;
+    margin: auto;
+}
+
+#sukunavsgojo, #blackflash{
+    display: inline;
+}*/
